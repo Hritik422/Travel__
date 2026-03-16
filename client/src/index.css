@@ -23,7 +23,7 @@
 }
 
 /* ─── Base ───────────────────────────────────────────────── */
-*, *::before, *::after { box-sizing: border-box; padding: 3; }
+*, *::before, *::after { box-sizing: border-box; }
 
 html {
   scroll-behavior: smooth;
