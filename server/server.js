@@ -27,12 +27,12 @@ app.use(
       "http://localhost:3000",      "https://your-client.vercel.app",     
       "https://www.onetravelexpert.com" 
     ],
-    methods: ["GET", "POST", "PUT", "DELETE"],
+    methods: ["GET", "POST", "PUT", "DELETE", , "OPTIONS"],
     allowedHeaders: ["Content-Type", "Authorization", "id"],
     credentials: true,
   })
 );
-app.options("*", cors());
+app.options("*", cors(corsOptions))
 app.use(helmet({ crossOriginResourcePolicy: { policy: "cross-origin" } }));
 app.use(compression());
 
