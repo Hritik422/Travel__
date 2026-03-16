@@ -7,7 +7,7 @@ const DATA = {
   Trending: [
     { country:"Maldives",    price:"₹1,20,000", original:"₹1,45,000", off:17, days:"5D/4N", theme:"Luxury",   line:"Overwater villas & private beach dinners",          tag:"Honeymoon Pick", rating:4.9, img:"https://images.unsplash.com/photo-1514282401047-d79a71a590e8?w=700&auto=format&fit=crop" },
     { country:"Japan",       price:"₹85,000",   original:"₹1,00,000", off:15, days:"8D/7N", theme:"Cultural", line:"Cherry blossoms, temples & bullet trains",           tag:"Best Seller",    rating:4.8, img:"https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=700&auto=format&fit=crop" },
-    { country:"Norway",      price:"₹1,73,000", original:"₹2,05,000", off:16, days:"7D/6N", theme:"Nature",   line:"Fjords, Northern Lights & scenic cruises",           tag:"Limited Time",   rating:4.7, img:"https://images.unsplash.com/photo-1501786223405-6d024d7e3da4?w=700&auto=format&fit=crop" },
+    { country:"Norway",      price:"₹1,73,000", original:"₹2,05,000", off:16, days:"7D/6N", theme:"Nature",   line:"Fjords, Northern Lights & scenic cruises",           tag:"Limited Time",   rating:4.7, img:"https://images.unsplash.com/photo-1544085311-11a028465b03?q=80&w=1932&auto=format&fit=crop" },
     { country:"Vietnam",     price:"₹38,000",   original:"₹46,000",   off:17, days:"6D/5N", theme:"Budget",   line:"Ha Long Bay, Hoi An & street food culture",          tag:"Great Value",    rating:4.6, img:"https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=700&auto=format&fit=crop" },
   ],
   "Best Deals": [
