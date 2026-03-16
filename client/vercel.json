@@ -1,0 +1,16 @@
+{
+  "routes": [
+    {
+      "src": "^/assets/.*",
+      "dest": "/assets/$0"
+    },
+    {
+      "src": "^/.*\\.(png|jpg|jpeg|svg|ico|webp|txt|xml)$",
+      "dest": "/$0"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ]
+}
