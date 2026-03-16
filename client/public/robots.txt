@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://onetravelrxpert.com/sitemap.xml
